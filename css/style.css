@@ -8839,6 +8839,13 @@ textarea.form-control {
   .heading-section.heading-section-white p {
     color: #404040; }
 
+.self-intro{
+    letter-spacing: 1px;
+    color: #ced4da;
+    padding-top: 16px;
+    font-size: 20px;
+    font-weight: 200;}
+
 .heading-section-2 {
   position: relative; }
   .heading-section-2 .subheading {
